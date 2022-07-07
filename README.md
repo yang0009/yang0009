@@ -15,7 +15,7 @@
 记录工作和学习历程,技术博客[https://yang0009.github.io](https://yang0009.github.io/)
  
 </div>
-## ❯ LOVE
+## > LOVE
 <div align="left">
  
  
@@ -24,7 +24,7 @@
  - :ambulance:股市韭菜,大慈善家
  - :bookmark: 热衷云原生,解决方案,协议标准
 </div>
-## ❯ LANG
+## > LANG
 <div align="left">
 
 
