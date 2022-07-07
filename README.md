@@ -18,7 +18,6 @@
 ## ❯ LOVE
 <div align="left">
  
-  ****
  
  - :sailboat: 喜欢自由的思想,独立自主
  - :unamused: 拒绝不专业的态度
@@ -28,7 +27,6 @@
 ## ❯ LANG
 <div align="left">
 
-  ****
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-444444?style=flat-square&logo=gnu-bash&logoColor=white)
