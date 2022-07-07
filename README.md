@@ -2,13 +2,15 @@
 
 ## 没别的,就扔点笔记在上面,记录工作和学习历程,技术博客[https://yang0009.github.io](https://yang0009.github.io/)
 <div align="left">
+ 
   **爱好**
+ 
  *:sailboat: 喜欢自由的思想,独立自主*
  *:unamused: 拒绝不专业的态度*
  *:ambulance:股市韭菜,大慈善家*
  *:bookmark: 热衷云原生,解决方案,协议标准*
 </div>
-
+##
 <div align="left">
 
   **编程语言**
