@@ -12,7 +12,7 @@
 
 <div align="center">
  
-没别的,就扔点笔记在上面,记录工作和学习历程,技术博客[https://yang0009.github.io](https://yang0009.github.io/)
+记录工作和学习历程,技术博客[https://yang0009.github.io](https://yang0009.github.io/)
  
 </div>
 <div align="left">
