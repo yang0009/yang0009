@@ -15,18 +15,20 @@
 记录工作和学习历程,技术博客[https://yang0009.github.io](https://yang0009.github.io/)
  
 </div>
+## ❯ 兴趣
 <div align="left">
  
-  **兴趣**
+  ****
  
  - :sailboat: 喜欢自由的思想,独立自主
  - :unamused: 拒绝不专业的态度
  - :ambulance:股市韭菜,大慈善家
  - :bookmark: 热衷云原生,解决方案,协议标准
 </div>
+## ❯ 编程语言
 <div align="left">
 
-  **编程语言**
+  ****
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-444444?style=flat-square&logo=gnu-bash&logoColor=white)
