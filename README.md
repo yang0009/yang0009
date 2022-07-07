@@ -1,12 +1,12 @@
-<div align="center" style="font-size:16px">
+<div align="center",style="font-size:16px">
 :fish:当咸鱼有了梦想,就注定了一生徒劳
 </div>
 
-<div align="center" style="font-size:12px">
+<div align="center",style="font-size:12px">
 *＼Hi, I'm yang0009!／*
 </div>
 
-<div align="center" style="font-size:12px">
+<div align="center",style="font-size:12px">
  
 [https://yang0009.github.io](https://yang0009.github.io/)
 本人技术博客,记录工作和学习的经历
