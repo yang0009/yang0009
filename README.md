@@ -6,7 +6,7 @@
 - *:unamused: 拒绝不专业的态度*
 - *:ambulance:股市韭菜,大慈善家*
 - *:bookmark: 热衷云原生,解决方案,协议标准*
-<div align="center">
+<div align="left">
 
   **编程语言**
 
